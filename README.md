@@ -1,6 +1,6 @@
 # Inverted Pendulum Control System
 
-![Finished Project](images/your-image.jpg)
+![Finished Project](image.jpg)
 
 An Arduino-based project that implements a state machine to control an inverted pendulum using PID control.
 
