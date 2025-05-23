@@ -80,4 +80,4 @@ An Arduino-based project that implements a state machine to control an inverted 
 
 ## License
 
-[MIT License](LICENSE) (optional - include if you add a license file)
+[MIT License](LICENSE)
